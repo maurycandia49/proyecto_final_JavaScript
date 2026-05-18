@@ -23,7 +23,7 @@ let productos = [];
 let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
 
 // FETCH JSON
-fetch("./data/productos.json")
+fetch("data/productos.json")
   .then(response => response.json())
   .then(data => {
 
