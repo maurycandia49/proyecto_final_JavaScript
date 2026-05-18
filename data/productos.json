@@ -4,27 +4,27 @@
     "nombre":"Mouse Logitech G203",
     "precio":25000,
     "categoria":"mouse",
-    "imagen": "../assets/img/Logitechg203.jpg"
+    "imagen": "/assets/img/Logitechg203.jpg"
   },
   {
     "id":2,
     "nombre":"Teclado Redragon",
     "precio":55000,
     "categoria":"teclado",
-    "imagen":"../assets/img/Redragon.jpg"
+    "imagen":"/assets/img/Redragon.jpg"
   },
   {
     "id":3,
     "nombre":"Monitor Samsung 24",
     "precio":180000,
     "categoria":"monitor",
-    "imagen":"../assets/img/Samsung24.jpg"
+    "imagen":"/assets/img/Samsung24.jpg"
   },
   {
     "id":4,
     "nombre":"Auriculares HyperX",
     "precio":70000,
     "categoria":"auriculares",
-    "imagen":"../assets/img/HyperX.jpg"
+    "imagen":"/assets/img/HyperX.jpg"
   }
 ]
